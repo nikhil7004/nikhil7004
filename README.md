@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhil7004
+- 👋 Hi, I’m nikhil kumar
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on website projects and ui design
